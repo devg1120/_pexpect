@@ -1,0 +1,5 @@
+python3 ssh_connect.py   localhost -r devg1120 sakiko1120 sakiko1120  ./cmd_list.txt result 
+python3 ssh_connect.py   localhost -r devg1120 sakiko1120 sakiko1120  ./cmd_list.txt
+
+python3 ssh_connect.py   localhost -u devg1120 sakiko1120  ./cmd_list.txt result 
+python3 ssh_connect.py   localhost -u devg1120 sakiko1120  ./cmd_list.txt

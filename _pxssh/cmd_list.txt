@@ -1,0 +1,19 @@
+LANG=C
+#unset LS_COLORS
+#export TERM=xterm-mono
+unalias ls
+unalias grep
+
+pwd
+
+   # comment abc
+
+   hostname
+   
+who
+ls  /
+ls -l /
+
+
+grep -r test ~/_pxssh
+

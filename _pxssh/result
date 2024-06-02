@@ -1,0 +1,40 @@
+LANG=C
+[?2004l[?2004h$ unalias ls
+[?2004l[?2004h$ pwd
+[?2004l/home/devg1120
+[?2004h$ hostname
+[?2004ldevg1120-HP-Laptop-17-bs0xx
+[?2004h$ who
+[?2004ldevg1120 tty2         Jun  1 17:34 (tty2)
+devg1120 pts/3        Jun  1 18:03 (127.0.0.1)
+[?2004h$ ls  /
+[?2004lbin   cdrom  etc   lib	  lib64   lost+found  mnt  proc  run   snap  sys  usr
+boot  dev    home  lib32  libx32  media       opt  root  sbin  srv   tmp  var
+[?2004h$ ls -l /
+[?2004ltotal 100
+lrwxrwxrwx   1 root root     7 May 29  2022 bin -> usr/bin
+drwxr-xr-x   4 root root  4096 Jun  1 09:42 boot
+drwxrwxr-x   2 root root  4096 May 29  2022 cdrom
+drwxr-xr-x  21 root root  4660 Jun  1 17:33 dev
+drwxr-xr-x 141 root root 12288 Jun  1 09:44 etc
+drwxr-xr-x   3 root root  4096 May 29  2022 home
+lrwxrwxrwx   1 root root     7 May 29  2022 lib -> usr/lib
+lrwxrwxrwx   1 root root     9 May 29  2022 lib32 -> usr/lib32
+lrwxrwxrwx   1 root root     9 May 29  2022 lib64 -> usr/lib64
+lrwxrwxrwx   1 root root    10 May 29  2022 libx32 -> usr/libx32
+drwx------   2 root root 16384 May 29  2022 lost+found
+drwxr-xr-x   2 root root  4096 Apr 19  2022 media
+drwxr-xr-x   2 root root  4096 Apr 19  2022 mnt
+drwxr-xr-x   4 root root  4096 Jul 10  2022 opt
+dr-xr-xr-x 312 root root     0 Jun  1 17:32 proc
+drwx------   5 root root  4096 May 20 22:28 root
+drwxr-xr-x  40 root root  1080 Jun  1 18:03 run
+lrwxrwxrwx   1 root root     8 May 29  2022 sbin -> usr/sbin
+drwxr-xr-x  15 root root  4096 Mar 25  2023 snap
+drwxr-xr-x   2 root root  4096 Apr 19  2022 srv
+dr-xr-xr-x  13 root root     0 Jun  1 17:32 sys
+drwxrwxrwt  21 root root 24576 Jun  1 18:03 tmp
+drwxr-xr-x  14 root root  4096 Apr 19  2022 usr
+drwxr-xr-x  15 root root  4096 Jun 12  2022 var
+[?2004h$ exit
+[?2004llogout
