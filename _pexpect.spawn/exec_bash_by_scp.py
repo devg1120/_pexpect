@@ -23,10 +23,18 @@ rsh.sendline("stty rows 1000 cols 1000")
 rsh.expect('$')
 rsh.sendline("cat ~/tmp/test.sh")
 rsh.expect('$')
-rsh.sendline("bash ~/tmp/test.sh")
+rsh.sendline("bash ~/tmp/test.sh > /var/tmp/test.txt")
 
 rsh.expect('$')
 rsh.sendline("stty size")
 rsh.expect('$')
 rsh.sendline("logout")
 rsh.expect(pexpect.EOF)
+
+child = pexpect.spawn('scp devg1120@localhost:/var/tmp/test.txt get_text.txt')
+child.logfile = sys.stdout.buffer
+
+child.expect('assword:')
+child.sendline(mypassword)
+#child.expect('$')
+child.expect(pexpect.EOF)

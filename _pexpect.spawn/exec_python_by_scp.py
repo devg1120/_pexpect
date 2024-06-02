@@ -22,8 +22,17 @@ rsh.expect('$')
 rsh.sendline("stty rows 1000 cols 1000")    
 rsh.expect('$')
 
-rsh.sendline("python3 ~/tmp/test.py /etc/passwd")
+rsh.sendline("python3 ~/tmp/test.py /etc/passwd > /var/tmp/test2.txt")
 
 rsh.expect('$')
 rsh.sendline("logout")
 rsh.expect(pexpect.EOF)
+
+child = pexpect.spawn('scp devg1120@localhost:/var/tmp/test2.txt get_python_text.txt')
+child.logfile = sys.stdout.buffer
+
+child.expect('assword:')
+child.sendline(mypassword)
+#child.expect('$')
+child.expect(pexpect.EOF)
+

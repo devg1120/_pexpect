@@ -1,0 +1,180 @@
+00000000  72 6f 6f 74 3a 78 3a 30  3a 30 3a 72 6f 6f 74 3a  |root:x:0:0:root:|
+00000010  2f 72 6f 6f 74 3a 2f 62  69 6e 2f 62 61 73 68 0a  |/root:/bin/bash.|
+00000020  64 61 65 6d 6f 6e 3a 78  3a 31 3a 31 3a 64 61 65  |daemon:x:1:1:dae|
+00000030  6d 6f 6e 3a 2f 75 73 72  2f 73 62 69 6e 3a 2f 75  |mon:/usr/sbin:/u|
+00000040  73 72 2f 73 62 69 6e 2f  6e 6f 6c 6f 67 69 6e 0a  |sr/sbin/nologin.|
+00000050  62 69 6e 3a 78 3a 32 3a  32 3a 62 69 6e 3a 2f 62  |bin:x:2:2:bin:/b|
+00000060  69 6e 3a 2f 75 73 72 2f  73 62 69 6e 2f 6e 6f 6c  |in:/usr/sbin/nol|
+00000070  6f 67 69 6e 0a 73 79 73  3a 78 3a 33 3a 33 3a 73  |ogin.sys:x:3:3:s|
+00000080  79 73 3a 2f 64 65 76 3a  2f 75 73 72 2f 73 62 69  |ys:/dev:/usr/sbi|
+00000090  6e 2f 6e 6f 6c 6f 67 69  6e 0a 73 79 6e 63 3a 78  |n/nologin.sync:x|
+000000a0  3a 34 3a 36 35 35 33 34  3a 73 79 6e 63 3a 2f 62  |:4:65534:sync:/b|
+000000b0  69 6e 3a 2f 62 69 6e 2f  73 79 6e 63 0a 67 61 6d  |in:/bin/sync.gam|
+000000c0  65 73 3a 78 3a 35 3a 36  30 3a 67 61 6d 65 73 3a  |es:x:5:60:games:|
+000000d0  2f 75 73 72 2f 67 61 6d  65 73 3a 2f 75 73 72 2f  |/usr/games:/usr/|
+000000e0  73 62 69 6e 2f 6e 6f 6c  6f 67 69 6e 0a 6d 61 6e  |sbin/nologin.man|
+000000f0  3a 78 3a 36 3a 31 32 3a  6d 61 6e 3a 2f 76 61 72  |:x:6:12:man:/var|
+00000100  2f 63 61 63 68 65 2f 6d  61 6e 3a 2f 75 73 72 2f  |/cache/man:/usr/|
+00000110  73 62 69 6e 2f 6e 6f 6c  6f 67 69 6e 0a 6c 70 3a  |sbin/nologin.lp:|
+00000120  78 3a 37 3a 37 3a 6c 70  3a 2f 76 61 72 2f 73 70  |x:7:7:lp:/var/sp|
+00000130  6f 6f 6c 2f 6c 70 64 3a  2f 75 73 72 2f 73 62 69  |ool/lpd:/usr/sbi|
+00000140  6e 2f 6e 6f 6c 6f 67 69  6e 0a 6d 61 69 6c 3a 78  |n/nologin.mail:x|
+00000150  3a 38 3a 38 3a 6d 61 69  6c 3a 2f 76 61 72 2f 6d  |:8:8:mail:/var/m|
+00000160  61 69 6c 3a 2f 75 73 72  2f 73 62 69 6e 2f 6e 6f  |ail:/usr/sbin/no|
+00000170  6c 6f 67 69 6e 0a 6e 65  77 73 3a 78 3a 39 3a 39  |login.news:x:9:9|
+00000180  3a 6e 65 77 73 3a 2f 76  61 72 2f 73 70 6f 6f 6c  |:news:/var/spool|
+00000190  2f 6e 65 77 73 3a 2f 75  73 72 2f 73 62 69 6e 2f  |/news:/usr/sbin/|
+000001a0  6e 6f 6c 6f 67 69 6e 0a  75 75 63 70 3a 78 3a 31  |nologin.uucp:x:1|
+000001b0  30 3a 31 30 3a 75 75 63  70 3a 2f 76 61 72 2f 73  |0:10:uucp:/var/s|
+000001c0  70 6f 6f 6c 2f 75 75 63  70 3a 2f 75 73 72 2f 73  |pool/uucp:/usr/s|
+000001d0  62 69 6e 2f 6e 6f 6c 6f  67 69 6e 0a 70 72 6f 78  |bin/nologin.prox|
+000001e0  79 3a 78 3a 31 33 3a 31  33 3a 70 72 6f 78 79 3a  |y:x:13:13:proxy:|
+000001f0  2f 62 69 6e 3a 2f 75 73  72 2f 73 62 69 6e 2f 6e  |/bin:/usr/sbin/n|
+00000200  6f 6c 6f 67 69 6e 0a 77  77 77 2d 64 61 74 61 3a  |ologin.www-data:|
+00000210  78 3a 33 33 3a 33 33 3a  77 77 77 2d 64 61 74 61  |x:33:33:www-data|
+00000220  3a 2f 76 61 72 2f 77 77  77 3a 2f 75 73 72 2f 73  |:/var/www:/usr/s|
+00000230  62 69 6e 2f 6e 6f 6c 6f  67 69 6e 0a 62 61 63 6b  |bin/nologin.back|
+00000240  75 70 3a 78 3a 33 34 3a  33 34 3a 62 61 63 6b 75  |up:x:34:34:backu|
+00000250  70 3a 2f 76 61 72 2f 62  61 63 6b 75 70 73 3a 2f  |p:/var/backups:/|
+00000260  75 73 72 2f 73 62 69 6e  2f 6e 6f 6c 6f 67 69 6e  |usr/sbin/nologin|
+00000270  0a 6c 69 73 74 3a 78 3a  33 38 3a 33 38 3a 4d 61  |.list:x:38:38:Ma|
+00000280  69 6c 69 6e 67 20 4c 69  73 74 20 4d 61 6e 61 67  |iling List Manag|
+00000290  65 72 3a 2f 76 61 72 2f  6c 69 73 74 3a 2f 75 73  |er:/var/list:/us|
+000002a0  72 2f 73 62 69 6e 2f 6e  6f 6c 6f 67 69 6e 0a 69  |r/sbin/nologin.i|
+000002b0  72 63 3a 78 3a 33 39 3a  33 39 3a 69 72 63 64 3a  |rc:x:39:39:ircd:|
+000002c0  2f 72 75 6e 2f 69 72 63  64 3a 2f 75 73 72 2f 73  |/run/ircd:/usr/s|
+000002d0  62 69 6e 2f 6e 6f 6c 6f  67 69 6e 0a 67 6e 61 74  |bin/nologin.gnat|
+000002e0  73 3a 78 3a 34 31 3a 34  31 3a 47 6e 61 74 73 20  |s:x:41:41:Gnats |
+000002f0  42 75 67 2d 52 65 70 6f  72 74 69 6e 67 20 53 79  |Bug-Reporting Sy|
+00000300  73 74 65 6d 20 28 61 64  6d 69 6e 29 3a 2f 76 61  |stem (admin):/va|
+00000310  72 2f 6c 69 62 2f 67 6e  61 74 73 3a 2f 75 73 72  |r/lib/gnats:/usr|
+00000320  2f 73 62 69 6e 2f 6e 6f  6c 6f 67 69 6e 0a 6e 6f  |/sbin/nologin.no|
+00000330  62 6f 64 79 3a 78 3a 36  35 35 33 34 3a 36 35 35  |body:x:65534:655|
+00000340  33 34 3a 6e 6f 62 6f 64  79 3a 2f 6e 6f 6e 65 78  |34:nobody:/nonex|
+00000350  69 73 74 65 6e 74 3a 2f  75 73 72 2f 73 62 69 6e  |istent:/usr/sbin|
+00000360  2f 6e 6f 6c 6f 67 69 6e  0a 73 79 73 74 65 6d 64  |/nologin.systemd|
+00000370  2d 6e 65 74 77 6f 72 6b  3a 78 3a 31 30 30 3a 31  |-network:x:100:1|
+00000380  30 32 3a 73 79 73 74 65  6d 64 20 4e 65 74 77 6f  |02:systemd Netwo|
+00000390  72 6b 20 4d 61 6e 61 67  65 6d 65 6e 74 2c 2c 2c  |rk Management,,,|
+000003a0  3a 2f 72 75 6e 2f 73 79  73 74 65 6d 64 3a 2f 75  |:/run/systemd:/u|
+000003b0  73 72 2f 73 62 69 6e 2f  6e 6f 6c 6f 67 69 6e 0a  |sr/sbin/nologin.|
+000003c0  73 79 73 74 65 6d 64 2d  72 65 73 6f 6c 76 65 3a  |systemd-resolve:|
+000003d0  78 3a 31 30 31 3a 31 30  33 3a 73 79 73 74 65 6d  |x:101:103:system|
+000003e0  64 20 52 65 73 6f 6c 76  65 72 2c 2c 2c 3a 2f 72  |d Resolver,,,:/r|
+000003f0  75 6e 2f 73 79 73 74 65  6d 64 3a 2f 75 73 72 2f  |un/systemd:/usr/|
+00000400  73 62 69 6e 2f 6e 6f 6c  6f 67 69 6e 0a 6d 65 73  |sbin/nologin.mes|
+00000410  73 61 67 65 62 75 73 3a  78 3a 31 30 32 3a 31 30  |sagebus:x:102:10|
+00000420  35 3a 3a 2f 6e 6f 6e 65  78 69 73 74 65 6e 74 3a  |5::/nonexistent:|
+00000430  2f 75 73 72 2f 73 62 69  6e 2f 6e 6f 6c 6f 67 69  |/usr/sbin/nologi|
+00000440  6e 0a 73 79 73 74 65 6d  64 2d 74 69 6d 65 73 79  |n.systemd-timesy|
+00000450  6e 63 3a 78 3a 31 30 33  3a 31 30 36 3a 73 79 73  |nc:x:103:106:sys|
+00000460  74 65 6d 64 20 54 69 6d  65 20 53 79 6e 63 68 72  |temd Time Synchr|
+00000470  6f 6e 69 7a 61 74 69 6f  6e 2c 2c 2c 3a 2f 72 75  |onization,,,:/ru|
+00000480  6e 2f 73 79 73 74 65 6d  64 3a 2f 75 73 72 2f 73  |n/systemd:/usr/s|
+00000490  62 69 6e 2f 6e 6f 6c 6f  67 69 6e 0a 73 79 73 6c  |bin/nologin.sysl|
+000004a0  6f 67 3a 78 3a 31 30 34  3a 31 31 31 3a 3a 2f 68  |og:x:104:111::/h|
+000004b0  6f 6d 65 2f 73 79 73 6c  6f 67 3a 2f 75 73 72 2f  |ome/syslog:/usr/|
+000004c0  73 62 69 6e 2f 6e 6f 6c  6f 67 69 6e 0a 5f 61 70  |sbin/nologin._ap|
+000004d0  74 3a 78 3a 31 30 35 3a  36 35 35 33 34 3a 3a 2f  |t:x:105:65534::/|
+000004e0  6e 6f 6e 65 78 69 73 74  65 6e 74 3a 2f 75 73 72  |nonexistent:/usr|
+000004f0  2f 73 62 69 6e 2f 6e 6f  6c 6f 67 69 6e 0a 74 73  |/sbin/nologin.ts|
+00000500  73 3a 78 3a 31 30 36 3a  31 31 32 3a 54 50 4d 20  |s:x:106:112:TPM |
+00000510  73 6f 66 74 77 61 72 65  20 73 74 61 63 6b 2c 2c  |software stack,,|
+00000520  2c 3a 2f 76 61 72 2f 6c  69 62 2f 74 70 6d 3a 2f  |,:/var/lib/tpm:/|
+00000530  62 69 6e 2f 66 61 6c 73  65 0a 75 75 69 64 64 3a  |bin/false.uuidd:|
+00000540  78 3a 31 30 37 3a 31 31  35 3a 3a 2f 72 75 6e 2f  |x:107:115::/run/|
+00000550  75 75 69 64 64 3a 2f 75  73 72 2f 73 62 69 6e 2f  |uuidd:/usr/sbin/|
+00000560  6e 6f 6c 6f 67 69 6e 0a  73 79 73 74 65 6d 64 2d  |nologin.systemd-|
+00000570  6f 6f 6d 3a 78 3a 31 30  38 3a 31 31 36 3a 73 79  |oom:x:108:116:sy|
+00000580  73 74 65 6d 64 20 55 73  65 72 73 70 61 63 65 20  |stemd Userspace |
+00000590  4f 4f 4d 20 4b 69 6c 6c  65 72 2c 2c 2c 3a 2f 72  |OOM Killer,,,:/r|
+000005a0  75 6e 2f 73 79 73 74 65  6d 64 3a 2f 75 73 72 2f  |un/systemd:/usr/|
+000005b0  73 62 69 6e 2f 6e 6f 6c  6f 67 69 6e 0a 74 63 70  |sbin/nologin.tcp|
+000005c0  64 75 6d 70 3a 78 3a 31  30 39 3a 31 31 37 3a 3a  |dump:x:109:117::|
+000005d0  2f 6e 6f 6e 65 78 69 73  74 65 6e 74 3a 2f 75 73  |/nonexistent:/us|
+000005e0  72 2f 73 62 69 6e 2f 6e  6f 6c 6f 67 69 6e 0a 61  |r/sbin/nologin.a|
+000005f0  76 61 68 69 2d 61 75 74  6f 69 70 64 3a 78 3a 31  |vahi-autoipd:x:1|
+00000600  31 30 3a 31 31 39 3a 41  76 61 68 69 20 61 75 74  |10:119:Avahi aut|
+00000610  6f 69 70 20 64 61 65 6d  6f 6e 2c 2c 2c 3a 2f 76  |oip daemon,,,:/v|
+00000620  61 72 2f 6c 69 62 2f 61  76 61 68 69 2d 61 75 74  |ar/lib/avahi-aut|
+00000630  6f 69 70 64 3a 2f 75 73  72 2f 73 62 69 6e 2f 6e  |oipd:/usr/sbin/n|
+00000640  6f 6c 6f 67 69 6e 0a 75  73 62 6d 75 78 3a 78 3a  |ologin.usbmux:x:|
+00000650  31 31 31 3a 34 36 3a 75  73 62 6d 75 78 20 64 61  |111:46:usbmux da|
+00000660  65 6d 6f 6e 2c 2c 2c 3a  2f 76 61 72 2f 6c 69 62  |emon,,,:/var/lib|
+00000670  2f 75 73 62 6d 75 78 3a  2f 75 73 72 2f 73 62 69  |/usbmux:/usr/sbi|
+00000680  6e 2f 6e 6f 6c 6f 67 69  6e 0a 64 6e 73 6d 61 73  |n/nologin.dnsmas|
+00000690  71 3a 78 3a 31 31 32 3a  36 35 35 33 34 3a 64 6e  |q:x:112:65534:dn|
+000006a0  73 6d 61 73 71 2c 2c 2c  3a 2f 76 61 72 2f 6c 69  |smasq,,,:/var/li|
+000006b0  62 2f 6d 69 73 63 3a 2f  75 73 72 2f 73 62 69 6e  |b/misc:/usr/sbin|
+000006c0  2f 6e 6f 6c 6f 67 69 6e  0a 6b 65 72 6e 6f 6f 70  |/nologin.kernoop|
+000006d0  73 3a 78 3a 31 31 33 3a  36 35 35 33 34 3a 4b 65  |s:x:113:65534:Ke|
+000006e0  72 6e 65 6c 20 4f 6f 70  73 20 54 72 61 63 6b 69  |rnel Oops Tracki|
+000006f0  6e 67 20 44 61 65 6d 6f  6e 2c 2c 2c 3a 2f 3a 2f  |ng Daemon,,,:/:/|
+00000700  75 73 72 2f 73 62 69 6e  2f 6e 6f 6c 6f 67 69 6e  |usr/sbin/nologin|
+00000710  0a 61 76 61 68 69 3a 78  3a 31 31 34 3a 31 32 31  |.avahi:x:114:121|
+00000720  3a 41 76 61 68 69 20 6d  44 4e 53 20 64 61 65 6d  |:Avahi mDNS daem|
+00000730  6f 6e 2c 2c 2c 3a 2f 72  75 6e 2f 61 76 61 68 69  |on,,,:/run/avahi|
+00000740  2d 64 61 65 6d 6f 6e 3a  2f 75 73 72 2f 73 62 69  |-daemon:/usr/sbi|
+00000750  6e 2f 6e 6f 6c 6f 67 69  6e 0a 63 75 70 73 2d 70  |n/nologin.cups-p|
+00000760  6b 2d 68 65 6c 70 65 72  3a 78 3a 31 31 35 3a 31  |k-helper:x:115:1|
+00000770  32 32 3a 75 73 65 72 20  66 6f 72 20 63 75 70 73  |22:user for cups|
+00000780  2d 70 6b 2d 68 65 6c 70  65 72 20 73 65 72 76 69  |-pk-helper servi|
+00000790  63 65 2c 2c 2c 3a 2f 68  6f 6d 65 2f 63 75 70 73  |ce,,,:/home/cups|
+000007a0  2d 70 6b 2d 68 65 6c 70  65 72 3a 2f 75 73 72 2f  |-pk-helper:/usr/|
+000007b0  73 62 69 6e 2f 6e 6f 6c  6f 67 69 6e 0a 72 74 6b  |sbin/nologin.rtk|
+000007c0  69 74 3a 78 3a 31 31 36  3a 31 32 33 3a 52 65 61  |it:x:116:123:Rea|
+000007d0  6c 74 69 6d 65 4b 69 74  2c 2c 2c 3a 2f 70 72 6f  |ltimeKit,,,:/pro|
+000007e0  63 3a 2f 75 73 72 2f 73  62 69 6e 2f 6e 6f 6c 6f  |c:/usr/sbin/nolo|
+000007f0  67 69 6e 0a 77 68 6f 6f  70 73 69 65 3a 78 3a 31  |gin.whoopsie:x:1|
+00000800  31 37 3a 31 32 34 3a 3a  2f 6e 6f 6e 65 78 69 73  |17:124::/nonexis|
+00000810  74 65 6e 74 3a 2f 62 69  6e 2f 66 61 6c 73 65 0a  |tent:/bin/false.|
+00000820  73 73 73 64 3a 78 3a 31  31 38 3a 31 32 35 3a 53  |sssd:x:118:125:S|
+00000830  53 53 44 20 73 79 73 74  65 6d 20 75 73 65 72 2c  |SSD system user,|
+00000840  2c 2c 3a 2f 76 61 72 2f  6c 69 62 2f 73 73 73 3a  |,,:/var/lib/sss:|
+00000850  2f 75 73 72 2f 73 62 69  6e 2f 6e 6f 6c 6f 67 69  |/usr/sbin/nologi|
+00000860  6e 0a 73 70 65 65 63 68  2d 64 69 73 70 61 74 63  |n.speech-dispatc|
+00000870  68 65 72 3a 78 3a 31 31  39 3a 32 39 3a 53 70 65  |her:x:119:29:Spe|
+00000880  65 63 68 20 44 69 73 70  61 74 63 68 65 72 2c 2c  |ech Dispatcher,,|
+00000890  2c 3a 2f 72 75 6e 2f 73  70 65 65 63 68 2d 64 69  |,:/run/speech-di|
+000008a0  73 70 61 74 63 68 65 72  3a 2f 62 69 6e 2f 66 61  |spatcher:/bin/fa|
+000008b0  6c 73 65 0a 6e 6d 2d 6f  70 65 6e 76 70 6e 3a 78  |lse.nm-openvpn:x|
+000008c0  3a 31 32 30 3a 31 32 36  3a 4e 65 74 77 6f 72 6b  |:120:126:Network|
+000008d0  4d 61 6e 61 67 65 72 20  4f 70 65 6e 56 50 4e 2c  |Manager OpenVPN,|
+000008e0  2c 2c 3a 2f 76 61 72 2f  6c 69 62 2f 6f 70 65 6e  |,,:/var/lib/open|
+000008f0  76 70 6e 2f 63 68 72 6f  6f 74 3a 2f 75 73 72 2f  |vpn/chroot:/usr/|
+00000900  73 62 69 6e 2f 6e 6f 6c  6f 67 69 6e 0a 73 61 6e  |sbin/nologin.san|
+00000910  65 64 3a 78 3a 31 32 31  3a 31 32 38 3a 3a 2f 76  |ed:x:121:128::/v|
+00000920  61 72 2f 6c 69 62 2f 73  61 6e 65 64 3a 2f 75 73  |ar/lib/saned:/us|
+00000930  72 2f 73 62 69 6e 2f 6e  6f 6c 6f 67 69 6e 0a 63  |r/sbin/nologin.c|
+00000940  6f 6c 6f 72 64 3a 78 3a  31 32 32 3a 31 32 39 3a  |olord:x:122:129:|
+00000950  63 6f 6c 6f 72 64 20 63  6f 6c 6f 75 72 20 6d 61  |colord colour ma|
+00000960  6e 61 67 65 6d 65 6e 74  20 64 61 65 6d 6f 6e 2c  |nagement daemon,|
+00000970  2c 2c 3a 2f 76 61 72 2f  6c 69 62 2f 63 6f 6c 6f  |,,:/var/lib/colo|
+00000980  72 64 3a 2f 75 73 72 2f  73 62 69 6e 2f 6e 6f 6c  |rd:/usr/sbin/nol|
+00000990  6f 67 69 6e 0a 67 65 6f  63 6c 75 65 3a 78 3a 31  |ogin.geoclue:x:1|
+000009a0  32 33 3a 31 33 30 3a 3a  2f 76 61 72 2f 6c 69 62  |23:130::/var/lib|
+000009b0  2f 67 65 6f 63 6c 75 65  3a 2f 75 73 72 2f 73 62  |/geoclue:/usr/sb|
+000009c0  69 6e 2f 6e 6f 6c 6f 67  69 6e 0a 70 75 6c 73 65  |in/nologin.pulse|
+000009d0  3a 78 3a 31 32 34 3a 31  33 31 3a 50 75 6c 73 65  |:x:124:131:Pulse|
+000009e0  41 75 64 69 6f 20 64 61  65 6d 6f 6e 2c 2c 2c 3a  |Audio daemon,,,:|
+000009f0  2f 72 75 6e 2f 70 75 6c  73 65 3a 2f 75 73 72 2f  |/run/pulse:/usr/|
+00000a00  73 62 69 6e 2f 6e 6f 6c  6f 67 69 6e 0a 67 6e 6f  |sbin/nologin.gno|
+00000a10  6d 65 2d 69 6e 69 74 69  61 6c 2d 73 65 74 75 70  |me-initial-setup|
+00000a20  3a 78 3a 31 32 35 3a 36  35 35 33 34 3a 3a 2f 72  |:x:125:65534::/r|
+00000a30  75 6e 2f 67 6e 6f 6d 65  2d 69 6e 69 74 69 61 6c  |un/gnome-initial|
+00000a40  2d 73 65 74 75 70 2f 3a  2f 62 69 6e 2f 66 61 6c  |-setup/:/bin/fal|
+00000a50  73 65 0a 68 70 6c 69 70  3a 78 3a 31 32 36 3a 37  |se.hplip:x:126:7|
+00000a60  3a 48 50 4c 49 50 20 73  79 73 74 65 6d 20 75 73  |:HPLIP system us|
+00000a70  65 72 2c 2c 2c 3a 2f 72  75 6e 2f 68 70 6c 69 70  |er,,,:/run/hplip|
+00000a80  3a 2f 62 69 6e 2f 66 61  6c 73 65 0a 67 64 6d 3a  |:/bin/false.gdm:|
+00000a90  78 3a 31 32 37 3a 31 33  33 3a 47 6e 6f 6d 65 20  |x:127:133:Gnome |
+00000aa0  44 69 73 70 6c 61 79 20  4d 61 6e 61 67 65 72 3a  |Display Manager:|
+00000ab0  2f 76 61 72 2f 6c 69 62  2f 67 64 6d 33 3a 2f 62  |/var/lib/gdm3:/b|
+00000ac0  69 6e 2f 66 61 6c 73 65  0a 64 65 76 67 31 31 32  |in/false.devg112|
+00000ad0  30 3a 78 3a 31 30 30 30  3a 31 30 30 30 3a 64 65  |0:x:1000:1000:de|
+00000ae0  76 67 31 31 32 30 2c 2c  2c 3a 2f 68 6f 6d 65 2f  |vg1120,,,:/home/|
+00000af0  64 65 76 67 31 31 32 30  3a 2f 62 69 6e 2f 62 61  |devg1120:/bin/ba|
+00000b00  73 68 0a 73 73 68 64 3a  78 3a 31 32 38 3a 36 35  |sh.sshd:x:128:65|
+00000b10  35 33 34 3a 3a 2f 72 75  6e 2f 73 73 68 64 3a 2f  |534::/run/sshd:/|
+00000b20  75 73 72 2f 73 62 69 6e  2f 6e 6f 6c 6f 67 69 6e  |usr/sbin/nologin|
+00000b30  0a 

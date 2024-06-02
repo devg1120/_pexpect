@@ -1,0 +1,259 @@
+The number of columns are 
+The number of lines are 
+devg1120-HP-Laptop-17-bs0xx
+/home/devg1120
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1 167020 11888 ?        Ss   09:29   0:05 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    09:29   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   09:29   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   09:29   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   09:29   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   09:29   0:00 [netns]
+root           8  0.0  0.0      0     0 ?        I<   09:29   0:00 [kworker/0:0H-events_highpri]
+root          11  0.0  0.0      0     0 ?        I<   09:29   0:00 [mm_percpu_wq]
+root          12  0.0  0.0      0     0 ?        I    09:29   0:00 [rcu_tasks_kthread]
+root          13  0.0  0.0      0     0 ?        I    09:29   0:00 [rcu_tasks_rude_kthread]
+root          14  0.0  0.0      0     0 ?        I    09:29   0:00 [rcu_tasks_trace_kthread]
+root          15  0.0  0.0      0     0 ?        S    09:29   0:00 [ksoftirqd/0]
+root          16  0.0  0.0      0     0 ?        I    09:29   0:04 [rcu_preempt]
+root          17  0.0  0.0      0     0 ?        S    09:29   0:00 [migration/0]
+root          18  0.0  0.0      0     0 ?        S    09:29   0:00 [idle_inject/0]
+root          19  0.0  0.0      0     0 ?        S    09:29   0:00 [cpuhp/0]
+root          20  0.0  0.0      0     0 ?        S    09:29   0:00 [cpuhp/1]
+root          21  0.0  0.0      0     0 ?        S    09:29   0:00 [idle_inject/1]
+root          22  0.0  0.0      0     0 ?        S    09:29   0:00 [migration/1]
+root          23  0.0  0.0      0     0 ?        S    09:29   0:06 [ksoftirqd/1]
+root          26  0.0  0.0      0     0 ?        S    09:29   0:00 [cpuhp/2]
+root          27  0.0  0.0      0     0 ?        S    09:29   0:00 [idle_inject/2]
+root          28  0.0  0.0      0     0 ?        S    09:29   0:00 [migration/2]
+root          29  0.0  0.0      0     0 ?        S    09:29   0:00 [ksoftirqd/2]
+root          31  0.0  0.0      0     0 ?        I<   09:29   0:00 [kworker/2:0H-events_highpri]
+root          32  0.0  0.0      0     0 ?        S    09:29   0:00 [cpuhp/3]
+root          33  0.0  0.0      0     0 ?        S    09:29   0:00 [idle_inject/3]
+root          34  0.0  0.0      0     0 ?        S    09:29   0:00 [migration/3]
+root          35  0.0  0.0      0     0 ?        S    09:29   0:00 [ksoftirqd/3]
+root          37  0.0  0.0      0     0 ?        I<   09:29   0:00 [kworker/3:0H-events_highpri]
+root          38  0.0  0.0      0     0 ?        S    09:29   0:00 [kdevtmpfs]
+root          39  0.0  0.0      0     0 ?        I<   09:29   0:00 [inet_frag_wq]
+root          41  0.0  0.0      0     0 ?        S    09:29   0:00 [kauditd]
+root          42  0.0  0.0      0     0 ?        S    09:29   0:00 [khungtaskd]
+root          43  0.0  0.0      0     0 ?        S    09:29   0:00 [oom_reaper]
+root          45  0.0  0.0      0     0 ?        I<   09:29   0:00 [writeback]
+root          46  0.0  0.0      0     0 ?        S    09:29   0:00 [kcompactd0]
+root          47  0.0  0.0      0     0 ?        SN   09:29   0:00 [ksmd]
+root          49  0.0  0.0      0     0 ?        SN   09:29   0:00 [khugepaged]
+root          50  0.0  0.0      0     0 ?        I<   09:29   0:00 [kintegrityd]
+root          51  0.0  0.0      0     0 ?        I<   09:29   0:00 [kblockd]
+root          52  0.0  0.0      0     0 ?        I<   09:29   0:00 [blkcg_punt_bio]
+root          54  0.0  0.0      0     0 ?        I<   09:29   0:00 [tpm_dev_wq]
+root          55  0.0  0.0      0     0 ?        I<   09:29   0:00 [ata_sff]
+root          56  0.0  0.0      0     0 ?        I<   09:29   0:00 [md]
+root          57  0.0  0.0      0     0 ?        I<   09:29   0:00 [md_bitmap]
+root          58  0.0  0.0      0     0 ?        I<   09:29   0:00 [edac-poller]
+root          59  0.0  0.0      0     0 ?        I<   09:29   0:00 [devfreq_wq]
+root          60  0.0  0.0      0     0 ?        S    09:29   0:00 [watchdogd]
+root          61  0.0  0.0      0     0 ?        I<   09:29   0:00 [kworker/2:1H-events_highpri]
+root          62  0.0  0.0      0     0 ?        S    09:29   0:00 [kswapd0]
+root          63  0.0  0.0      0     0 ?        S    09:29   0:00 [ecryptfs-kthread]
+root          65  0.0  0.0      0     0 ?        I<   09:29   0:00 [kthrotld]
+root          66  0.0  0.0      0     0 ?        S    09:29   0:00 [irq/122-aerdrv]
+root          67  0.0  0.0      0     0 ?        S    09:29   0:00 [irq/123-aerdrv]
+root          68  0.0  0.0      0     0 ?        I<   09:29   0:00 [acpi_thermal_pm]
+root          69  0.0  0.0      0     0 ?        S    09:29   0:00 [hwrng]
+root          70  0.0  0.0      0     0 ?        I<   09:29   0:00 [mld]
+root          71  0.0  0.0      0     0 ?        I<   09:29   0:01 [kworker/0:1H-events_highpri]
+root          72  0.0  0.0      0     0 ?        I<   09:29   0:00 [ipv6_addrconf]
+root          80  0.0  0.0      0     0 ?        I<   09:29   0:00 [kstrp]
+root          87  0.0  0.0      0     0 ?        I<   09:29   0:00 [charger_manager]
+root         106  0.0  0.0      0     0 ?        I<   09:29   0:00 [kworker/1:1H-events_highpri]
+root         135  0.0  0.0      0     0 ?        I<   09:29   0:00 [kworker/3:1H-events_highpri]
+root         147  0.0  0.0      0     0 ?        S    09:29   0:00 [scsi_eh_0]
+root         148  0.0  0.0      0     0 ?        I<   09:29   0:00 [scsi_tmf_0]
+root         149  0.0  0.0      0     0 ?        S    09:29   0:00 [scsi_eh_1]
+root         150  0.0  0.0      0     0 ?        I<   09:29   0:00 [scsi_tmf_1]
+root         151  0.0  0.0      0     0 ?        S    09:29   0:00 [scsi_eh_2]
+root         152  0.0  0.0      0     0 ?        I<   09:29   0:00 [scsi_tmf_2]
+root         161  0.0  0.0      0     0 ?        I<   09:29   0:00 [kdmflush/252:0]
+root         162  0.0  0.0      0     0 ?        I<   09:29   0:00 [kdmflush/252:1]
+root         199  0.0  0.0      0     0 ?        S    09:29   0:00 [jbd2/dm-0-8]
+root         200  0.0  0.0      0     0 ?        I<   09:29   0:00 [ext4-rsv-conver]
+root         243  0.0  0.2  65000 17880 ?        S<s  09:29   0:01 /lib/systemd/systemd-journald
+root         268  0.0  0.0      0     0 ?        I    09:29   0:03 [kworker/2:2-events]
+root         278  0.0  0.0      0     0 ?        I<   09:29   0:00 [ipmi-msghandler]
+root         307  0.0  0.0  27884  7680 ?        Ss   09:29   0:02 /lib/systemd/systemd-udevd
+root         344  0.0  0.0      0     0 ?        I<   09:29   0:00 [kworker/1:2H-kblockd]
+root         349  0.0  0.0      0     0 ?        S    09:29   0:00 [irq/127-mei_me]
+root         371  0.0  0.0      0     0 ?        I<   09:29   0:00 [cfg80211]
+root         381  0.0  0.0      0     0 ?        S    09:29   0:05 [irq/128-iwlwifi]
+root         426  0.0  0.0      0     0 ?        I<   09:29   0:00 [cryptd]
+root         456  0.0  0.0      0     0 ?        I<   09:29   0:00 [ttm]
+root         457  0.0  0.0      0     0 ?        S    09:29   0:00 [card0-crtc0]
+root         458  0.0  0.0      0     0 ?        S    09:29   0:00 [card0-crtc1]
+root         459  0.0  0.0      0     0 ?        S    09:29   0:00 [card0-crtc2]
+systemd+     621  0.2  0.0  14836  6656 ?        Ss   09:29   0:19 /lib/systemd/systemd-oomd
+systemd+     622  0.0  0.1  26464 14336 ?        Ss   09:29   0:02 /lib/systemd/systemd-resolved
+systemd+     623  0.0  0.0  89388  7168 ?        Ssl  09:29   0:00 /lib/systemd/systemd-timesyncd
+root         645  0.0  0.1 242748  9276 ?        Ssl  09:29   0:01 /usr/libexec/accounts-daemon
+root         646  0.0  0.0   2816  1920 ?        Ss   09:29   0:01 /usr/sbin/acpid
+avahi        649  0.0  0.0   7708  3840 ?        Ss   09:29   0:00 avahi-daemon: running [devg1120-HP-Laptop-17-bs0xx.local]
+root         650  0.0  0.0  10596  5248 ?        Ss   09:29   0:00 /usr/lib/bluetooth/bluetoothd
+root         652  0.0  0.0  10544  2688 ?        Ss   09:29   0:00 /usr/sbin/cron -f -P
+message+     653  0.1  0.0  11100  6400 ?        Ss   09:29   0:09 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         654  0.1  0.2 263160 19520 ?        Ssl  09:29   0:09 /usr/sbin/NetworkManager --no-daemon
+root         661  0.0  0.0  82768  3840 ?        Ssl  09:29   0:01 /usr/sbin/irqbalance --foreground
+root         662  0.0  0.2  42060 20992 ?        Ss   09:29   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         663  0.2  0.1 244672 12076 ?        Ssl  09:29   0:17 /usr/libexec/polkitd --no-debug
+root         664  0.0  0.0 241392  7628 ?        Ssl  09:29   0:00 /usr/libexec/power-profiles-daemon
+syslog       665  0.0  0.0 222404  6016 ?        Ssl  09:29   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         680  0.0  0.4 1468004 32944 ?       Ssl  09:29   0:04 /usr/lib/snapd/snapd
+root         681  0.0  0.0 237560  6528 ?        Ssl  09:29   0:00 /usr/libexec/switcheroo-control
+root         682  0.0  0.1  48384  8000 ?        Ss   09:29   0:00 /lib/systemd/systemd-logind
+root         683  0.0  0.1 129624  9728 ?        Ssl  09:29   0:01 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         684  0.0  0.1 393496 14016 ?        Ssl  09:29   0:01 /usr/libexec/udisks2/udisksd
+root         685  0.0  0.1  17816 11392 ?        Ss   09:29   0:01 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        710  0.0  0.0   7444  1160 ?        S    09:29   0:00 avahi-daemon: chroot helper
+root         752  0.0  0.1 243296 11932 ?        Ssl  09:29   0:00 /usr/sbin/ModemManager
+root         765  0.0  0.2 119180 23424 ?        Ssl  09:29   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         772  0.0  0.6 1431028 55408 ?       Ssl  09:29   0:02 /usr/bin/containerd
+root         803  0.0  0.1  15436  8960 ?        Ss   09:29   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root         822  0.0  0.1 242540  8704 ?        Ssl  09:29   0:00 /usr/sbin/gdm3
+rtkit        930  0.0  0.0 154004  3072 ?        SNsl 09:30   0:00 /usr/libexec/rtkit-daemon
+kernoops     945  0.0  0.0  13092  2052 ?        Ss   09:30   0:00 /usr/sbin/kerneloops --test
+kernoops     947  0.0  0.0  13092  2208 ?        Ss   09:30   0:00 /usr/sbin/kerneloops
+root        1116  0.0  0.1 243404  8448 ?        Ssl  09:30   0:00 /usr/libexec/upowerd
+root        1123  0.1  0.5 374184 43224 ?        Ssl  09:30   0:11 /usr/libexec/packagekitd
+colord      1321  0.0  0.1 247928 14596 ?        Ssl  09:30   0:00 /usr/libexec/colord
+root        1491  0.0  0.1  73668 13568 ?        Ss   09:30   0:00 /usr/sbin/cupsd -l
+root        1493  0.0  0.1 172636 11520 ?        Ssl  09:30   0:00 /usr/sbin/cups-browsed
+root        1608  0.0  0.1 171948 11456 ?        Sl   09:38   0:00 gdm-session-worker [pam/gdm-password]
+devg1120    1624  0.0  0.1  18064 10624 ?        Ss   09:38   0:00 /lib/systemd/systemd --user
+devg1120    1625  0.0  0.0 170308  6124 ?        S    09:38   0:00 (sd-pam)
+devg1120    1632  0.0  0.0  40900  6528 ?        S<sl 09:38   0:00 /usr/bin/pipewire
+devg1120    1633  0.0  0.0  24664  6528 ?        Ssl  09:38   0:00 /usr/bin/pipewire-media-session
+devg1120    1634  0.0  0.3 1686368 26968 ?       S<sl 09:38   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+devg1120    1635  0.0  0.1  38952 11520 ?        Ss   09:38   0:00 /snap/snapd-desktop-integration/157/usr/bin/snapd-desktop-integration
+devg1120    1646  0.0  0.0   9728  5632 ?        Ss   09:38   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+devg1120    1661  0.0  0.0 241900  7936 ?        Ssl  09:38   0:00 /usr/libexec/gvfsd
+devg1120    1662  0.0  0.0 315888  7832 ?        Sl   09:38   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+devg1120    1668  0.0  0.0 380896  6656 ?        Sl   09:38   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+devg1120    1680  0.0  0.0 685716  7424 ?        Ssl  09:38   0:00 /usr/libexec/xdg-document-portal
+devg1120    1683  0.0  0.0 237496  6400 ?        Ssl  09:38   0:00 /usr/libexec/xdg-permission-store
+root        1689  0.0  0.0   2796  1792 ?        Ss   09:38   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+devg1120    1701  0.0  0.5 649084 40020 ?        SNsl 09:38   0:01 /usr/libexec/tracker-miner-fs-3
+devg1120    1703  0.0  0.0 163616  5888 tty2     Ssl+ 09:38   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+devg1120    1706  0.0  0.1 224264 15488 tty2     Sl+  09:38   0:00 /usr/libexec/gnome-session-binary --session=ubuntu
+root        1744  0.0  0.0      0     0 ?        S<   09:38   0:00 [krfcommd]
+devg1120    1762  0.0  0.7 1021128 62080 ?       Ssl  09:38   0:00 /usr/libexec/gnome-remote-desktop-daemon
+devg1120    1764  0.0  0.0  92960  5504 ?        Ssl  09:38   0:00 /usr/libexec/gnome-session-ctl --monitor
+devg1120    1780  0.0  0.2 594900 18304 ?        Ssl  09:38   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+devg1120    1808  0.0  0.0 309628  7680 ?        Sl   09:38   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+devg1120    1817  0.0  0.0   8432  4352 ?        S    09:38   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+devg1120    1821  4.0  3.2 5100992 262572 ?      Ssl  09:38   5:25 /usr/bin/gnome-shell
+devg1120    1861  0.0  0.2 582712 17920 ?        Sl   09:38   0:00 /usr/libexec/gnome-shell-calendar-server
+devg1120    1867  0.0  0.0 157096  5632 ?        Ssl  09:38   0:00 /usr/libexec/dconf-service
+devg1120    1868  0.0  0.1 317448 10752 ?        Ssl  09:38   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+devg1120    1875  0.0  0.0 237888  6528 ?        Ssl  09:38   0:00 /usr/libexec/gvfs-goa-volume-monitor
+devg1120    1879  0.0  0.5 583244 40320 ?        Sl   09:38   0:00 /usr/libexec/goa-daemon
+devg1120    1886  0.0  0.1 339764 15360 ?        Sl   09:38   0:00 /usr/libexec/goa-identity-service
+devg1120    1888  0.0  0.0 237684  6656 ?        Ssl  09:38   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+devg1120    1896  0.0  0.0 238768  6912 ?        Ssl  09:38   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+devg1120    1900  0.0  0.1 316464  8192 ?        Ssl  09:38   0:00 /usr/libexec/gvfs-afc-volume-monitor
+devg1120    1910  0.0  0.3 1073672 26240 ?       Ssl  09:38   0:00 /usr/libexec/evolution-source-registry
+devg1120    1913  0.0  0.1 316264  9216 ?        Sl   09:38   0:00 /usr/libexec/gvfsd-trash --spawner :1.2 /org/gtk/gvfs/exec_spaw/0
+devg1120    1926  0.0  0.3 915652 31360 ?        Ssl  09:38   0:00 /usr/libexec/evolution-calendar-factory
+devg1120    1929  0.0  0.3 2735940 28064 ?       Sl   09:38   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+devg1120    1931  0.0  0.0 162688  7424 ?        Sl   09:38   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+devg1120    1944  0.0  0.0   2892  1536 ?        Ss   09:38   0:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+devg1120    1948  0.4  0.1 390200 12116 ?        Sl   09:38   0:38 /usr/bin/ibus-daemon --panel disable
+devg1120    1949  0.0  0.0 311848  6912 ?        Ssl  09:38   0:00 /usr/libexec/gsd-a11y-settings
+devg1120    1950  0.0  0.3 538148 27520 ?        Ssl  09:38   0:00 /usr/libexec/gsd-color
+devg1120    1951  0.0  0.2 376880 16384 ?        Ssl  09:38   0:00 /usr/libexec/gsd-datetime
+devg1120    1957  0.0  0.1 313352  8192 ?        Ssl  09:38   0:00 /usr/libexec/gsd-housekeeping
+devg1120    1960  0.0  0.2 342368 22400 ?        Ssl  09:38   0:00 /usr/libexec/gsd-keyboard
+devg1120    1964  0.0  0.3 931596 27524 ?        Ssl  09:38   0:00 /usr/libexec/gsd-media-keys
+devg1120    1965  0.0  0.3 452328 26244 ?        Ssl  09:38   0:00 /usr/libexec/gsd-power
+devg1120    1966  0.0  0.1 251132 11392 ?        Ssl  09:38   0:00 /usr/libexec/gsd-print-notifications
+devg1120    1967  0.0  0.8 863408 70540 ?        Sl   09:38   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+devg1120    1968  0.0  0.0 459132  6912 ?        Ssl  09:38   0:00 /usr/libexec/gsd-rfkill
+devg1120    1971  0.0  0.0 237564  6272 ?        Ssl  09:38   0:00 /usr/libexec/gsd-screensaver-proxy
+devg1120    1975  0.0  0.1 467352 10752 ?        Ssl  09:38   0:01 /usr/libexec/gsd-sharing
+devg1120    1977  0.0  0.1 387460  8448 ?        Ssl  09:38   0:00 /usr/libexec/gsd-smartcard
+devg1120    1981  0.0  0.1 320764  9856 ?        Ssl  09:38   0:00 /usr/libexec/gsd-sound
+devg1120    1991  0.0  0.2 416700 22916 ?        Ssl  09:38   0:00 /usr/libexec/gsd-wacom
+devg1120    2005  0.0  0.0 232272  7808 ?        Sl   09:38   0:00 /usr/libexec/gsd-disk-utility-notify
+devg1120    2024  0.0  0.3 503000 30204 ?        Sl   09:38   0:00 /snap/snapd-desktop-integration/157/usr/bin/snapd-desktop-integration
+devg1120    2048  0.0  0.0 238660  7168 ?        Sl   09:38   0:00 /usr/libexec/ibus-dconf
+devg1120    2052  0.0  0.3 349544 29844 ?        Sl   09:38   0:07 /usr/libexec/ibus-extension-gtk3
+devg1120    2075  0.0  0.0 238580  7424 ?        Sl   09:38   0:00 /usr/libexec/ibus-portal
+devg1120    2079  0.0  0.1 343632 15104 ?        Sl   09:38   0:00 /usr/libexec/gsd-printer
+devg1120    2080  0.6  0.9 577580 76316 ?        Sl   09:38   0:52 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.ELKAO2 -listen 4 -listen 5 -displayfd 6 -initfd 7
+devg1120    2102  0.1  0.1 239472 12544 ?        Sl   09:38   0:12 /usr/lib/ibus-mozc/ibus-engine-mozc --ibus
+devg1120    2152  0.0  1.4 993872 112776 ?       Sl   09:38   0:05 /snap/snap-store/1113/usr/bin/snap-store --gapplication-service
+devg1120    2180  0.0  0.3 2670496 27716 ?       Sl   09:38   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+devg1120    2203  0.0  0.8 805384 70104 ?        Ssl  09:38   0:00 /usr/libexec/gsd-xsettings
+devg1120    2250  0.0  0.8 2967496 70588 ?       Sl   09:38   0:04 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:1920:1080:1:27:0:0:42:0
+devg1120    2270  0.0  0.1 821592 13696 ?        Ssl  09:38   0:00 /usr/libexec/xdg-desktop-portal
+devg1120    2327  0.0  0.3 747440 29440 ?        Ssl  09:38   0:00 /usr/libexec/evolution-addressbook-factory
+devg1120    2350  0.0  0.3 730064 30232 ?        Ssl  09:38   0:00 /usr/libexec/xdg-desktop-portal-gnome
+devg1120    2352  0.0  0.3 195896 25500 ?        Sl   09:38   0:00 /usr/libexec/ibus-x11
+devg1120    2356  0.0  0.3 252992 29356 ?        SLl  09:38   0:00 /usr/lib/mozc/mozc_server
+devg1120    2376  1.0  1.0 802716 86564 ?        Ssl  09:38   1:23 /usr/libexec/gnome-terminal-server
+devg1120    2382  0.0  0.3 345440 25092 ?        Ssl  09:38   0:00 /usr/libexec/xdg-desktop-portal-gtk
+devg1120    2463  0.0  0.0 164264  6528 ?        Ssl  09:38   0:00 /usr/libexec/gvfsd-metadata
+devg1120    3485  0.0  0.4 460292 33284 ?        Sl   09:39   0:00 update-notifier
+devg1120    3511  2.5  3.5 34175284 281212 ?     SLl  09:39   3:26 /opt/google/chrome/chrome --enable-crashpad
+devg1120    3517  0.0  0.0   9560  1792 ?        S    09:39   0:00 cat
+devg1120    3518  0.0  0.0   9560  1792 ?        S    09:39   0:00 cat
+devg1120    3520  0.0  0.0 33575780 3328 ?       Sl   09:39   0:00 /opt/google/chrome/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/devg1120/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 22.04 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=102.0.5005.61 --initial-client-fd=5 --shared-client-connection
+devg1120    3522  0.0  0.0 33567568 3200 ?       Sl   09:39   0:00 /opt/google/chrome/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/devg1120/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 22.04 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=102.0.5005.61 --initial-client-fd=4 --shared-client-connection
+devg1120    3528  0.0  0.7 33831068 59008 ?      S    09:39   0:00 /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --enable-crashpad
+devg1120    3529  0.0  0.7 33831056 59008 ?      S    09:39   0:00 /opt/google/chrome/chrome --type=zygote --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --enable-crashpad
+devg1120    3530  0.0  0.0 33563024 3840 ?       S    09:39   0:00 /opt/google/chrome/nacl_helper
+devg1120    3533  0.0  0.2 33831076 16164 ?      S    09:39   0:00 /opt/google/chrome/chrome --type=zygote --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --enable-crashpad
+devg1120    3555  2.4  2.4 34307356 195352 ?     Sl   09:39   3:12 /opt/google/chrome/chrome --type=gpu-process --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --gpu-preferences=WAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+devg1120    3556  0.4  1.3 33902452 109952 ?     Sl   09:39   0:38 /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=ja --service-sandbox-type=none --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072 --enable-crashpad
+devg1120    3582  0.0  0.6 33880652 49256 ?      Sl   09:39   0:01 /opt/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --lang=ja --service-sandbox-type=utility --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+root        5432  0.0  0.0      0     0 ?        I    09:46   0:02 [kworker/0:0-events]
+devg1120    5585  0.0  0.0   7980  5632 ?        S    09:51   0:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+root        5876  0.0  0.0      0     0 ?        I<   09:53   0:00 [tls-strp]
+devg1120    6050  0.6  1.8 42522652 151164 ?     Sl   09:56   0:45 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=42 --launch-time-ticks=1654865670 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+devg1120    6978  0.0  0.9 34130632 72576 ?      Sl   10:04   0:00 /opt/google/chrome/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --lang=ja --service-sandbox-type=none --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072 --enable-crashpad
+devg1120    8288  0.2  3.0 42476396 241848 ?     Sl   10:26   0:13 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=120 --launch-time-ticks=3430242899 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+devg1120    8312  0.3  1.6 42491124 134464 ?     Sl   10:27   0:15 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=121 --launch-time-ticks=3480950147 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+devg1120    8331  0.1  1.8 42457400 148748 ?     Sl   10:27   0:05 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=122 --launch-time-ticks=3482486202 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+devg1120    8849  0.1  1.6 42496968 133956 ?     Sl   10:39   0:05 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=129 --launch-time-ticks=4183569059 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+devg1120   10636  0.5  2.1 42549464 173880 ?     Sl   10:50   0:19 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=136 --launch-time-ticks=4849749788 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+devg1120   10648  0.0  1.3 42472340 110168 ?     Sl   10:50   0:01 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=137 --launch-time-ticks=4851870176 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+root       10832  0.0  0.0      0     0 ?        I    10:55   0:01 [kworker/1:2-cgroup_destroy]
+root       13136  0.0  0.0      0     0 ?        D<   11:15   0:01 [kworker/u9:2+i915_flip]
+devg1120   13248  0.6  2.1 42511156 172372 ?     Sl   11:17   0:13 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=154 --launch-time-ticks=6470649654 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+root       13315  0.0  0.0      0     0 ?        I    11:19   0:00 [kworker/3:1-events]
+devg1120   13551  0.0  1.0 42444912 87816 ?      Sl   11:19   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=155 --launch-time-ticks=6627725753 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+devg1120   13577  0.0  1.0 42443876 84136 ?      Sl   11:19   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=156 --launch-time-ticks=6629399755 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+devg1120   13596  0.0  1.0 42443876 86684 ?      Sl   11:19   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=157 --launch-time-ticks=6631492648 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+root       13706  0.0  0.0      0     0 ?        I    11:21   0:01 [kworker/1:1-i915-unordered]
+devg1120   13947  0.0  0.1  15648  8448 pts/3    Ss   11:22   0:00 bash
+root       14742  0.0  0.0      0     0 ?        I    11:24   0:00 [kworker/u8:0-i915]
+root       14838  0.0  0.0      0     0 ?        I<   11:26   0:00 [kworker/u9:3-rb_allocator]
+devg1120   15003  0.0  1.1 42443876 88424 ?      Sl   11:29   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=171 --launch-time-ticks=7203408922 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+devg1120   15014  1.4  2.9 46744396 233812 ?     Sl   11:29   0:20 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=172 --launch-time-ticks=7204190828 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+devg1120   15095  2.0  3.2 46718532 256852 ?     Sl   11:32   0:25 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=175 --launch-time-ticks=7385140480 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+devg1120   15121  0.0  0.8 42443744 64160 ?      Sl   11:32   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=3520 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=ja --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=178 --launch-time-ticks=7387195024 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,4532489795501736812,14049051339595407511,131072
+root       15176  0.0  0.0      0     0 ?        I    11:35   0:00 [kworker/2:1]
+root       15177  0.0  0.0      0     0 ?        I    11:35   0:00 [kworker/u8:2-events_power_efficient]
+root       15229  0.0  0.0      0     0 ?        I    11:39   0:00 [kworker/3:0-cgroup_destroy]
+root       15232  0.0  0.0      0     0 ?        I    11:39   0:00 [kworker/u8:4-events_power_efficient]
+root       15249  0.0  0.0      0     0 ?        I    11:40   0:00 [kworker/0:1-events]
+root       15294  0.0  0.0      0     0 ?        I<   11:48   0:00 [kworker/u9:0]
+root       15296  0.0  0.0      0     0 ?        I    11:48   0:00 [kworker/u8:1-events_unbound]
+root       15337  0.0  0.0      0     0 ?        I    11:50   0:00 [kworker/0:2-cgroup_destroy]
+root       15403  0.0  0.0      0     0 ?        I    11:52   0:00 [kworker/3:2]
+root       15631  0.0  0.0      0     0 ?        I    11:52   0:00 [kworker/1:0-inode_switch_wbs]
+devg1120   15676  3.0  0.1  21728 10752 pts/3    S+   11:52   0:00 python3 exec_bash_by_scp.py
+devg1120   15677  0.0  0.0      0     0 ?        Zs   11:52   0:00 [scp] <defunct>
+devg1120   15721  1.0  0.1  17976  8064 pts/1    Ss+  11:52   0:00 /usr/bin/ssh devg1120@localhost
+root       15722  7.0  0.1  17436 10912 ?        Ss   11:52   0:00 sshd: devg1120 [priv]
+devg1120   15761  0.0  0.0  17436  7864 ?        S    11:52   0:00 sshd: devg1120@pts/2
+devg1120   15762  6.0  0.1  15768  8320 pts/2    Ss   11:52   0:00 -bash
+devg1120   15942  0.0  0.0  11152  3712 pts/2    S+   11:52   0:00 bash /home/devg1120/tmp/test.sh
+devg1120   15944  0.0  0.0  13984  3584 pts/2    R+   11:52   0:00 ps -aux
